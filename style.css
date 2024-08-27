@@ -276,7 +276,7 @@ section{
 .home-img img{
     width: 100%;
     height: auto;
-    max-width: 400px;
+    max-width: 480px;
 }
 .liquid-shape{
     position: absolute;
